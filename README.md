@@ -38,17 +38,54 @@ If the output is 1, then the led glows.
 Program:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
-RTL realization
+Developed by: RAKSHITHA P
 
-### Output:
-### RTL
-### TIMING DIAGRAM
+RegisterNumber:  23003502
 
 
-### TRUTH TABLE 
+Code:
+
+Full Adder:
+
+![Exp3 fa code](https://github.com/rakshithaprakashkumar11/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150994181/777d51bb-ffa8-46f1-a088-f553a52752ac)
+
+Half Adder:
+
+![Exp3 ha code](https://github.com/rakshithaprakashkumar11/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150994181/90516393-e2a1-46a4-81f7-3be02183e7c9)
+
+RTL diagram
+
+Full Adder:
+
+![Exp3 fa RTL diagram](https://github.com/rakshithaprakashkumar11/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150994181/8c1687a5-d509-40fb-a637-629e5952dd5e)
+
+Half Adder:
+
+![Exp3 ha RTL diagram](https://github.com/rakshithaprakashkumar11/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150994181/e38331fe-5671-48e6-afc4-1b93d8886f55)
+
+Truth Table :
+
+Full Adder:
+
+![Exp3 truthtable (fa)](https://github.com/rakshithaprakashkumar11/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150994181/4c7165dd-f5f1-43d1-9c3a-fce223b0761b)
+
+Half Adder:
+
+![Exp3 truthtable (ha)](https://github.com/rakshithaprakashkumar11/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150994181/c79163c1-efa8-4f85-92a9-1f8ee6dccee6)
+
+Output:
+
+Full Adder:
+
+![Exp3 fa wave](https://github.com/rakshithaprakashkumar11/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150994181/d828e65e-9257-478a-b997-b500aa024f36)
+
+Half Adder:
+
+![halfadder-wave](https://github.com/rakshithaprakashkumar11/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150994181/dee7a5f5-d90d-4192-a281-fb0688b313af)
+
+
+
+
 
 ### Result:
+Thus the half adder and full adder circuit are designed and the truth table for half adder and full adder are verified.
